@@ -1,2 +1,2 @@
 # css_practice
-CSS practice
+making a fan page
